@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Responsive Dropdown nav-bar Bar</title>
+  <title>J.D.R.O</title>
 	<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="style.css"> 
 </head>
