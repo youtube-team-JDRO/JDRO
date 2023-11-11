@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<!-- code by webdevtrick ( https://webdevtrick.com ) -->
 <html>
-
 <head>
-  <meta charset="UTF-8">
-  <title>J.D.R.O</title>
-	<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
-      <link rel="stylesheet" href="style.css"> 
+<meta charset="UTF-8">
+<title>J.D.R.O</title>
+<link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
