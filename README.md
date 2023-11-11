@@ -2,6 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <title>J.D.R.O</title>
+<link rel="icon" href="https://static.wixstatic.com/media/906d00_accddb2993154ccf90cfc4ef09e31654~mv2.png/v1/fill/w_64,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/906d00_accddb2993154ccf90cfc4ef09e31654~mv2.png" type="imagr/x-icon">
 <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
 
 </head>
